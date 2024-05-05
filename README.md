@@ -57,5 +57,5 @@
     (venv) D:\KeWang_20215506> python main.py
     ```
 
-## 使用框架
+## Reference
 - https://github.com/ultralytics/yolov5/
